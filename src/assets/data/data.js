@@ -27,7 +27,7 @@ export const data = {
             date: "13",
             day: "Minggu",
             hours: {
-                start: "18.00",
+                start: "17.00",
                 finish: "Selesai"
             }
         },
@@ -37,7 +37,7 @@ export const data = {
             date: "13",
             day: "Minggu",
             hours: {
-                start: "18.00",
+                start: "17.00",
                 finish: "Selesai"
             }
         },
