@@ -12,9 +12,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     welcome();
     navbar();
-    home();
+    
     bride()
     time();
     galeri();
     wishas();
+    home();
 });
